@@ -1,1 +1,2 @@
 # test
+# manabiya task clear
